@@ -58,4 +58,24 @@ footer {
 
 .conteudo p:last-child {
     font-style: italic;
+
+}
+.h1 > p {
+    font-style: italic;
+}
+.h1 p {
+    font-weight: bold;
+}
+
+div[id="Polimorfismo"]{
+    font-color: white;
+}
+div[class]{
+    font-weight: bold;
+}
+.texto-italico section:first-child{
+    font-style: italic;
+}
+.texto-italico2 aside:last-child{
+    font-style: italic;
 }
